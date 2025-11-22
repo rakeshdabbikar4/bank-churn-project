@@ -144,6 +144,12 @@ This helps stakeholders quickly understand churn drivers.
 **Dabbikar Rakesh**  
 GitHub: https://github.com/rakeshdabbikar4
 
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+
 
 
 
