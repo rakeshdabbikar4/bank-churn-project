@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%">
+  <img src="banner.png" width="100%">
 </p>
+
 
 <h1 align="center">🔍 Bank Customer Churn Prediction</h1>
 
@@ -147,5 +148,6 @@ This helps stakeholders quickly understand churn drivers.
 ## Author
 **Dabbikar Rakesh**  
 GitHub: https://github.com/rakeshdabbikar4
+
 
 
