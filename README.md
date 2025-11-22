@@ -1,22 +1,6 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%">
+  <img src="banner.png" width="100%">
 </p>
-
-<h1 align="center">🔍 Bank Customer Churn Prediction</h1>
-
-<p align="center">
-  <b>End-to-end Machine Learning Project</b> — Data Cleaning | EDA | ML Models | Feature Importance | Insights  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
-</p>
-
-<hr>
 
 # Bank Customer Churn Prediction
 
