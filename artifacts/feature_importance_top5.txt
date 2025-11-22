@@ -1,0 +1,6 @@
+           feature  importance_mean  importance_std
+6   IsActiveMember         0.038550        0.007599
+1              Age         0.020000        0.006166
+4    NumOfProducts         0.006300        0.004079
+13   TenureGroup_0         0.003250        0.001260
+5        HasCrCard         0.002975        0.001043
